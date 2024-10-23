@@ -1,0 +1,7 @@
+__pycache__
+data/*/
+pretrained/*/
+results
+neural_renderer
+*.zip
+Makefile
